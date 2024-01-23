@@ -3,7 +3,7 @@ import Mensaje from "./components/Mensaje"
 function App() {
   return (
     <main>
-        <Mensaje amigo="my friend"></Mensaje>
+        <Mensaje amigo="my friend!"></Mensaje>
     </main>
   )
 }
