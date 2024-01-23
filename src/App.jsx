@@ -1,9 +1,9 @@
 import './App.css'
-
+import Mensaje from "./components/Mensaje"
 function App() {
   return (
     <main>
-        <p>Mensaje de pruba</p>
+        <Mensaje amigo="my friend"></Mensaje>
     </main>
   )
 }

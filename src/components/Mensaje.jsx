@@ -1,8 +1,8 @@
 
-const Mensaje = () => {
+const Mensaje = ({amigo}) => {
     return (
         <article>
-            <p><b>Hello world!</b></p>
+            <p><b>Hello {amigo}</b></p>
         </article>
     );
 };
