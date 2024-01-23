@@ -19,4 +19,4 @@ El punto 2 de este trabajo consiste en modificar el componente Mensaje y enviarl
 - Herrera Victor Fernando
 
 ### Para probar el proyecto
-solo deben dirigirse al siguiente link :
+solo deben dirigirse al siguiente link : https://tpreactpunto2.netlify.app/
